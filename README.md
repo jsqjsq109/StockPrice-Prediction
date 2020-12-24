@@ -10,6 +10,6 @@ Python libraries - numpy, pandas, datetime, matplotlib, sklearn
 
 Description of files in repository:
 proposal.pdf - This is the initial proposal with the outline of the project.
-report.pdf - This is the final report detailing the project process and results etc.
+Capstone report.pdf - This is the final report detailing the project process and results etc.
 Stock Prediction Final.ipynb - This contains the working code for the project. All cells have been run. 
 ^GSPC.csv - This is the extracted data from Yahoo Finance and is the raw input into the model.
